@@ -1,28 +1,4 @@
-== README
+== ada
+A rails project from the Hack4Diversity hackathon where users can create coding challenges that can then be solved by others. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Uses HackerRank's API to evaluate code submissions, the Devise ruby gem for user authentication, and Bootstrap for styling.
